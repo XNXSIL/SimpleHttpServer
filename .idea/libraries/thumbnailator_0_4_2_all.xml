@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="thumbnailator-0.4.2-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/tryhttpserver/lib/thumbnailator-0.4.2-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/MyServer/lib/com.springsource.com.mysql.jdbc-5.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/tryhttpserver/lib/thumbnailator-0.4.2-all.jar!/" />
+    </SOURCES>
+  </library>
+</component>
